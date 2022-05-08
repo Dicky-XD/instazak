@@ -1,5 +1,5 @@
 ## THANKS TO ROZHAK
-# Premium
+# Script Free 
 
 **Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lihat Di** https://youtu.be/u17ZQgSs3aY
 
