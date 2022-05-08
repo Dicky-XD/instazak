@@ -3,9 +3,6 @@
 
 **Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lihat Di** https://youtu.be/u17ZQgSs3aY
 
-# Screenshot
-![IMG_20220319_102953](file:///storage/emulated/0/DCIM/Screenshots/Screenshot_20220507-171828.png)
-
 # Perintah :
     $ pkg update && pkg upgrade
     $ pkg install git
